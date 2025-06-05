@@ -12,10 +12,10 @@ and study of the structure, dynamics, and functions of complex networks.
 
 - **Website (including documentation):** https://networkx.org  
 - **Mailing list:** https://groups.google.com/forum/#!forum/networkx-discuss  
-- **Source:** https://github.com/taylortech75/graphnetworkx  
-- **Bug reports:** https://github.com/taylortech75/graphnetworkx/issues  
+- **Source:** https://github.com/veltrix-capital/graphnetworkx  
+- **Bug reports:** https://github.com/veltrix-capital/graphnetworkx/issues  
 - **Tutorial:** https://networkx.org/documentation/latest/tutorial.html  
-- **GitHub Discussions:** https://github.com/taylortech75/graphnetworkx/discussions  
+- **GitHub Discussions:** https://github.com/veltrix-capital/graphnetworkx/discussions  
 
 Simple Example
 --------------
